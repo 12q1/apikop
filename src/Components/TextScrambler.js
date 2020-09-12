@@ -34,7 +34,8 @@ const scrambleTexts = [
     'Describing Functions',
     'Smooth Animations',
     'Consuming APIs',
-    'Extra Caffinated'
+    'Extra Caffinated',
+    'Intuitive UX'
 ];
 
 function shuffle(a) {

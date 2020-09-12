@@ -11,7 +11,7 @@ class ContactList extends Component {
                 <ul className="contactList">
                     <li> <a href="https://github.com/12q1"><GitHubIcon id="icon-github" /> Github</a></li>
                     <li> <a href="https://www.linkedin.com/in/thomasham/"><LinkedInIcon id="icon-linkedin" /> LinkedIn</a></li>
-                    <li> <PhoneIcon id="icon-phone" /> Phone: +31(0)6-53623444</li>
+                    <li> <PhoneIcon id="icon-phone" /> Phone: +31(0) 6-536-23-444</li>
                     <li> <EmailIcon id="icon-email" /> Email: thomasham89@gmail.com</li>
                 </ul>
             </div>
