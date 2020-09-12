@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apikop/static/css/main.22161708.chunk.css",
+    "main.js": "/apikop/static/js/main.36a932b0.chunk.js",
+    "main.js.map": "/apikop/static/js/main.36a932b0.chunk.js.map",
+    "runtime-main.js": "/apikop/static/js/runtime-main.dd6ef1a5.js",
+    "runtime-main.js.map": "/apikop/static/js/runtime-main.dd6ef1a5.js.map",
+    "static/js/2.d7ca3257.chunk.js": "/apikop/static/js/2.d7ca3257.chunk.js",
+    "static/js/2.d7ca3257.chunk.js.map": "/apikop/static/js/2.d7ca3257.chunk.js.map",
+    "index.html": "/apikop/index.html",
+    "precache-manifest.3d90fcfe96f913887f75f182aa1127e6.js": "/apikop/precache-manifest.3d90fcfe96f913887f75f182aa1127e6.js",
+    "service-worker.js": "/apikop/service-worker.js",
+    "static/css/main.22161708.chunk.css.map": "/apikop/static/css/main.22161708.chunk.css.map",
+    "static/js/2.d7ca3257.chunk.js.LICENSE.txt": "/apikop/static/js/2.d7ca3257.chunk.js.LICENSE.txt",
+    "static/media/lowpolyape.png": "/apikop/static/media/lowpolyape.0996b000.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6ef1a5.js",
+    "static/js/2.d7ca3257.chunk.js",
+    "static/css/main.22161708.chunk.css",
+    "static/js/main.36a932b0.chunk.js"
+  ]
+}
