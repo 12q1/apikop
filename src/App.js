@@ -5,6 +5,7 @@ import ContactList from './Components/ContactList';
 import ParticlesContainer from './Components/ParticlesContainer';
 import TextScrambler from './Components/TextScrambler';
 
+console.log('Thanks for inspecting! Contact me for more information')
 
 function App() {
   return (
