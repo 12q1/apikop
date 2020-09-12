@@ -1,6 +1,7 @@
 .mainText {
+  pointer-events : none;
   position: absolute;
-  top: 10vh;
+  top: 7vh;
   left: 10vw;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 0.2;
@@ -34,6 +35,7 @@
 }
 
 .lowpolyape {
+  pointer-events : none;
   position: absolute;
   top: 0;
   right: 0;
