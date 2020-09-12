@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <ParticlesContainer/>
+      <img src={lowpolyape} alt="Low poly ape" className="lowpolyape"/>
     </div>
   );
 }
