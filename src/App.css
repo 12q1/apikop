@@ -32,7 +32,7 @@
 .contactText {
   position: absolute;
   pointer-events: none;
-  bottom: 5vh;
+  bottom: 6vh;
   left: 5vw;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
