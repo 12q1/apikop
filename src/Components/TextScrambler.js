@@ -37,13 +37,21 @@ const scrambleTexts = [
     'Extra Caffinated'
 ];
 
+function shuffle(a) {
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+}
+
 class TextScrambler extends Component {
     render() {
         return (
             <div className='scrambler'>
                 <span className='blinker'>_</span>
                 <TextScramble
-                    texts={scrambleTexts}
+                    texts={shuffle(scrambleTexts)}
                     letterSpeed={5}
                     nextLetterSpeed={100}
                     pauseTime={1500}

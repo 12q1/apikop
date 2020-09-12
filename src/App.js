@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import lowpolyape from './assets/lowpolyape.png';
+import ContactList from './Components/ContactList';
 import ParticlesContainer from './Components/ParticlesContainer';
 import TextScrambler from './Components/TextScrambler';
 
@@ -13,7 +14,8 @@ function App() {
         <h1 className="companyName">APIKOP</h1>
         <TextScrambler/>
       </div>
-      <ParticlesContainer />
+      <ParticlesContainer/>
+      <ContactList/>
     </div>
   );
 }

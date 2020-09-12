@@ -1,20 +1,20 @@
 .mainText {
   pointer-events : none;
   position: absolute;
-  top: 7vh;
+  top: 5vh;
   left: 10vw;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 0.2;
 }
 
 .companyName {
-  font-size: 8vw;
+  font-size: 10vw;
   color: white;
 }
 
 .scrambler {
   display: flex;
-  font-size: 3vw;
+  font-size: 4vw;
   color: white;
   font-family: monospace;
 }
@@ -29,6 +29,20 @@
   }
 }
 
+.contactText {
+  position: absolute;
+  pointer-events: none;
+  bottom: 5vh;
+  left: 8vw;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .particleBackground {
   background-color: #0080b2;
   display: block;
@@ -40,5 +54,5 @@
   top: 0;
   right: 0;
   height: 100vh;
-  opacity: 0.8;
+  opacity: 0.6;
 }
