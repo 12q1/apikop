@@ -31,7 +31,7 @@ const scrambleTexts = [
     'Forgetting Passwords',
     'Constructing Components',
     'Forcing Pushes',
-    'Describing Functions',
+    'Forming Functions',
     'Smooth Animations',
     'Consuming APIs',
     'Extra Caffinated',
@@ -40,7 +40,11 @@ const scrambleTexts = [
     'AGILE Methods',
     'Controlling Versions',
     'Sanitizing Inputs',
-    'Solid Solutions'
+    'Solid Solutions',
+    'Authenticating Tokens',
+    'Crushing Legacies',
+    'Stomping Bugs',
+    'Resolving Promises'
 ];
 
 function shuffle(a) {
