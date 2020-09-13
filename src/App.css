@@ -8,13 +8,13 @@
 }
 
 .companyName {
-  font-size: 70px;
+  font-size: 17vmin;
   color: white;
 }
 
 .scrambler {
   display: flex;
-  font-size: 20px;
+  font-size: 5vmin;
   color: white;
   font-family: monospace;
 }
@@ -51,7 +51,7 @@ a {
 
 [id^="icon"]{
   position: relative;
-  top: 5px;
+  top: 7px;
   right: 7px;
 }
 
